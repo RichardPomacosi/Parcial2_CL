@@ -1,0 +1,17 @@
+C:\Users\Rick\source\repos\WebSErvice_SP-NET\WebSErvice_SP-NET\bin\WebSErvice_SP-NET.dll.config
+C:\Users\Rick\source\repos\WebSErvice_SP-NET\WebSErvice_SP-NET\bin\WebSErvice_SP-NET.dll
+C:\Users\Rick\source\repos\WebSErvice_SP-NET\WebSErvice_SP-NET\bin\WebSErvice_SP-NET.pdb
+C:\Users\Rick\source\repos\WebSErvice_SP-NET\WebSErvice_SP-NET\obj\Debug\WebSErvice_SP-NET.csprojAssemblyReference.cache
+C:\Users\Rick\source\repos\WebSErvice_SP-NET\WebSErvice_SP-NET\obj\Debug\WebSErvice_SP-NET.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\WebSErvice_SP-NET\WebSErvice_SP-NET\obj\Debug\WebSErvice_SP-NET.dll
+C:\Users\Rick\source\repos\WebSErvice_SP-NET\WebSErvice_SP-NET\obj\Debug\WebSErvice_SP-NET.pdb
+C:\Users\Rick\source\repos\WebSErvice_SP-NET\WebSErvice_SP-NET\bin\Mono.Security.dll
+C:\Users\Rick\source\repos\WebSErvice_SP-NET\WebSErvice_SP-NET\bin\Npgsql.dll
+C:\Users\Rick\source\repos\WebSErvice_SP-NET\WebSErvice_SP-NET\bin\Npgsql.xml
+C:\Users\Rick\source\repos\WebSErvice_SP-NET\WebSErvice_SP-NET\bin\de\Npgsql.resources.dll
+C:\Users\Rick\source\repos\WebSErvice_SP-NET\WebSErvice_SP-NET\bin\es\Npgsql.resources.dll
+C:\Users\Rick\source\repos\WebSErvice_SP-NET\WebSErvice_SP-NET\bin\fi\Npgsql.resources.dll
+C:\Users\Rick\source\repos\WebSErvice_SP-NET\WebSErvice_SP-NET\bin\fr\Npgsql.resources.dll
+C:\Users\Rick\source\repos\WebSErvice_SP-NET\WebSErvice_SP-NET\bin\ja\Npgsql.resources.dll
+C:\Users\Rick\source\repos\WebSErvice_SP-NET\WebSErvice_SP-NET\bin\zh-CN\Npgsql.resources.dll
+C:\Users\Rick\source\repos\WebSErvice_SP-NET\WebSErvice_SP-NET\obj\Debug\WebSErvice_SP-NET.csproj.CopyComplete
